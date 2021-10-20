@@ -4,7 +4,7 @@ Based on [youtube lecture](https://youtu.be/fnqUD4FTE5Q) by [Anton Bely](https:/
 
 1.  Дерево это граф, который не имеет циклов.
 
-    ![simple tree](./_backstage/img/simple_tree.jpg)
+    ![simple tree](./img/simple_tree.jpg)
 
     <details>
     <summary>
@@ -18,7 +18,7 @@ Based on [youtube lecture](https://youtu.be/fnqUD4FTE5Q) by [Anton Bely](https:/
     - Две вершины, соединенные дугой или ребром, называются смежными .
     - Граф не имеет цикла если мы не можем вернуться в исходную точку, через какое-либо ребро .
 
-      ![graph](./_backstage/img/graph.png)
+      ![graph](./img/graph.jpg)
 
     </details>
 
@@ -45,7 +45,7 @@ Based on [youtube lecture](https://youtu.be/fnqUD4FTE5Q) by [Anton Bely](https:/
 
 ## BST: Left Traversing (обход дерева)
 
-![graph](./_backstage/img/traversing_tree.jpg)
+![graph](./img/traversing_tree.jpg)
 
 <details>
 <summary>BST code exumple</summary>
